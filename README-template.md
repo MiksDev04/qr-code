@@ -30,7 +30,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [qr-code](https://miksdev04.github.io/qr-code/)
 
 
 ### Built with
@@ -51,7 +51,6 @@ I want to continue and learn more on developing a nice design for my web project
 
 ## Author
 
-- Website - [Miko Gapasan](https://www.your-site.com)
 - Frontend Mentor - [@MiksDev04](https://www.frontendmentor.io/profile/MiksDev04)
 
 
